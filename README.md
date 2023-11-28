@@ -1,3 +1,4 @@
+<img style="width:100%;" src="https://cdn3d.iconscout.com/3d/premium/thumb/professional-website-developer-6343297-5242457.png?f=webp"/>
 <h1 align="center">Hi 👋, I'm Izaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
