@@ -93,3 +93,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izazinsights&show_icons=true&locale=en" alt="izazinsights" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izazinsights&" alt="izazinsights" /></p>
+
+
+
+![snake gif](https://github.com/ikram-maulana/ikram-maulana/blob/output/github-snake.svg)
