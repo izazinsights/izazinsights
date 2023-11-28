@@ -23,7 +23,7 @@
  </div>
 
 <p align="left"> <a href="https://twitter.com/izazinsights" target="blank"><img src="https://img.shields.io/twitter/follow/izazinsights?logo=twitter&style=for-the-badge" alt="izazinsights" /></a> </p>
-
+<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:</h3>
 - 🔭 I’m currently working on [Blogsofindia](https://blogsofindia.me)
 
 - 🌱 I’m currently learning **Programming**
