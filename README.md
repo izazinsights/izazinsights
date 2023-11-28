@@ -1,11 +1,9 @@
-<img style="width:100%;" src="https://cdn3d.iconscout.com/3d/premium/thumb/professional-website-developer-6343297-5242457.png?f=webp"/>
-<h1 align="center">Hi 👋, I'm Izaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<button style="background-color:red;">hello</button>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/><br>Hey! I am Izaz </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izazinsights&label=Profile%20views&color=0e75b6&style=flat" alt="izazinsights" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izazinsights" alt="izazinsights" /></a> </p>
 
