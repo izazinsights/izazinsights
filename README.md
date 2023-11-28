@@ -42,7 +42,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izazinsights&" alt="izazinsights" /></p>
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+<h3> <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+<br>Connect with me
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/izazinsights" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
