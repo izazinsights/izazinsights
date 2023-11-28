@@ -4,7 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izazinsights&label=Profile%20views&color=0e75b6&style=flat" alt="izazinsights" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izazinsights" alt="izazinsights" /></a> </p>
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+ </div>
 
 <p align="left"> <a href="https://twitter.com/izazinsights" target="blank"><img src="https://img.shields.io/twitter/follow/izazinsights?logo=twitter&style=for-the-badge" alt="izazinsights" /></a> </p>
 
